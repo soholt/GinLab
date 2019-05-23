@@ -1,0 +1,68 @@
+Body {
+  background: #333 !important; /* Adding !important forces the browser to overwrite the default style applied by Bootstrap */
+  color: #ccc !important;
+
+/*
+chocolate 	#D2691E 	rgb(210,105,30)
+  	saddlebrown 	#8B4513 	rgb(139,69,19)
+*/
+  /*padding: 0px;
+  font-family: sans-serif;
+
+  Bootstrap 4 has some contextual classes that can be used to provide "meaning through colors".
+  The classes for text colors are:
+  .text-muted, .text-primary, .text-success, .text-info, .text-warning, .text-danger, .text-secondary, .text-white, .text-dark, .text-body (default body color/often black) and .text-light
+  --blue: #007bff;
+  --indigo: #6610f2;
+  --purple: #6f42c1;
+  --pink: #e83e8c;
+  --red: #dc3545;
+  --orange: #fd7e14;
+  --yellow: #ffc107;
+  --green: #28a745;
+  --teal: #20c997;
+  --cyan: #17a2b8;
+  --white: #fff;
+  --gray: #6c757d;
+  --gray-dark: #343a40;
+  --primary: #007bff;
+  --secondary: #6c757d;
+  --success: #28a745;
+  --info: #17a2b8;
+  --warning: #ffc107;
+  --danger: #dc3545;
+  --light: #f8f9fa;
+  --dark: #343a40;
+  */
+}
+canvas {
+  border:1px solid grey;
+  background:#222;
+}
+
+.btn-white          { color:#000; border-color:#FFF; background-color:#FFF; }
+.btn-white:hover    { color:#FFF; border-color:#FFF; background-color:#FFF; }
+.btn-outline-white  { color:#FFF; border-color:#FFF; }
+
+.btn-pink          { color:#000; border-color:#FCF; background-color:#FCF; }
+.btn-pink:hover    { color:#FCF; border-color:#FCF; background-color:#FCF; }
+.btn-outline-pink   { color:#FCF; border-color:#FCF; }
+
+.btn-brown          { color:#000; border-color: #906000; background-color:#906000; }
+.btn-brown:hover    { color:#906000; border-color:#906000; background-color:#906000; }
+.btn-outline-brown  { color:#906000; border-color:#906000; }
+/*
+.btn-white:active {                border-color:#000000; background-color:#000000; }
+.btn-white:hover  {                                      background-color:#FFFFFF; }
+
+.btn-pink         { color:#FCF; border-color:#FCF; } !important
+.btn-outline-pink { border-color:#FCF; }!important
+.btn-pink:active  { color:#FFFFFF; border-color:#FFFFFF;  background-color:#FCF; }
+.btn-pink:hover   { color:#FFFFFF; border-color:#FFFFFF; background-color:#FCF; }
+
+.btn-brown        { color:#d39e00; border-color: #d39e00; }
+.btn-outline-brown{ color:#212529; border-color:#d39e00; background-color:#e0a800; }
+.btn-brown:active { color:#FFFFFF; border-color:#FFFFFF;  background-color: #FF00FF; }
+.btn-brown:hover  { color:#FFFFFF; border-color:#FFFFFF;  background-color: #d39e00; }
+*/
+.input-freq {max-width:30px;}
