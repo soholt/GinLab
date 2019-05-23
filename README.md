@@ -1,5 +1,7 @@
 To install and run:
 -
+Install FireFox or FireFoxDev https://www.mozilla.org/en-GB/firefox/developer/
+-
 Install: Git https://git-scm.com/downloads
 -
 Install: Meteor https://www.meteor.com/install
